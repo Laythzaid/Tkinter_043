@@ -78,15 +78,4 @@ def main():
     )
     prediction_button.pack(pady=10)
 
-    result_label = ttk.Label(
-        root,
-        text="Hasil prediksi akan ditampilkan di sini.",
-        font=("Arial", 11, "bold"),
-    )
-    result_label.pack(pady=10)
-
-    root.mainloop()
-
-
-if __name__ == "__main__":
-    main()
+ 
