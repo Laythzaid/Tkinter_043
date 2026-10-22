@@ -17,3 +17,9 @@ def main():
 
     input_frame = ttk.Frame(root, padding=10)
     input_frame.pack(pady=10)
+
+    root.mainloop()
+
+
+if __name__ == "__main__":
+    main()
