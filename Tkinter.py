@@ -13,4 +13,7 @@ def main():
         text="Aplikasi Prediksi Prodi Pilihan",
         font=("Arial", 16, "bold"),
     )
-  
+    judul.pack(pady=20)
+
+    input_frame = ttk.Frame(root, padding=10)
+    input_frame.pack(pady=10)
