@@ -50,3 +50,9 @@ for i, mapel in enumerate(mata_pelajaran):
     entry.grid(row=i, column=1, padx=10, pady=5)
 
     input_nilai.append(entry)
+
+# Fungsi hasil prediksi
+def hasil_prediksi():
+    hasil.config(
+        text="Hasil Prediksi: Teknologi Informasi"
+    )
