@@ -8,3 +8,9 @@ def main():
     root.geometry("600x400")
     root.minsize(500, 350)
 
+    judul = ttk.Label(
+        root,
+        text="Aplikasi Prediksi Prodi Pilihan",
+        font=("Arial", 16, "bold"),
+    )
+  
