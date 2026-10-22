@@ -32,4 +32,7 @@ mata_pelajaran = [
     "Nilai Mata Pelajaran 9",
     "Nilai Mata Pelajaran 10"
 ]
+
+# 
+
  
